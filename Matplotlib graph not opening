@@ -1,0 +1,21 @@
+Matplotlib graph not opening
+
+My Jupyter setting ID: jupyter.runStartupCommands
+
+When I click "edit settings.json" this opens:
+
+{
+    "python.languageServer": "Pylance",
+    "workbench.editorAssociations": [
+        {
+            "viewType": "jupyter.notebook.ipynb",
+            "filenamePattern": "*.ipynb"
+        }
+    ],
+    "jupyter.runStartupCommands": "
+    
+    "
+}
+
+Please tell how to fix the issue (see title).
+Thank you in advance.
